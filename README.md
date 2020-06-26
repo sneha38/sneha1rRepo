@@ -12,6 +12,6 @@
 
 ## **Credits:**
 ###### Helped by ***Hasibul*** and ***Snehasish***.
-###### Created by me[sneha38].:innocent:
+###### Created by me(https://github.com/sneha38). :innocent:
 
 
