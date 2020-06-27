@@ -1,3 +1,4 @@
+![emoji](sneha1rRepo/Emoji702.png)
 # **Welcome to my first repository**
 #### It is a repo which I have created for the first time...all Thanks to my fellow friends *Hasibul* and *Snehasish*.
 
